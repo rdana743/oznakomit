@@ -1,0 +1,3 @@
+[submodule "djangotest"]
+	path = djangotest
+	url = https://github.com/rdana743/oznakomit.git
